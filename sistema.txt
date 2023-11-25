@@ -4,3 +4,4 @@
 4 - iniciando a criação da tela de cadastro
 5 - Estilização do sistema de cadastro 
 6 - Testes da tela de login
+7 - Testes da tela de cadastro
