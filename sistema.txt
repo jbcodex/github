@@ -1,3 +1,4 @@
 1 - tela de login criada
 2 - validação da tela de login foi criada
 3 - CSS inserido na tela de login
+4 - iniciando a criação da tela de cadastro
